@@ -1,0 +1,7 @@
+{
+  "name": "Mapbox-Gl-maps",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
